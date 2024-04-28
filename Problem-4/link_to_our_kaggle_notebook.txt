@@ -1,0 +1,3 @@
+https://www.kaggle.com/code/cartoonistbeard/notebookb15a32bac1
+
+Since our training dataset was more than 25mb.
